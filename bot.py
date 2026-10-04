@@ -31,5 +31,5 @@ async def on_member_join(member):
             await kanal.send(content=f"{tekst}\n*(Błąd: Nie znaleziono pliku obrazek.png)*")
 
 # Wklej TUTAJ swój nowy, świeży token wygenerowany z portalu Discorda
-TOKEN = "MTU1NjMwNzMxMDY5NDExMzQwMQ.G8UyLI.SKxtUpcEP1wp_z9dvCITUwOSdsqVd-njfe4BIE"
+TOKEN = "MTU1NjMwNzMxMDY5NDExMzQwMQ.Gcujyg.vQJ99oAFAHP0xXkjv0yHS0ZEJU_Y6ml44t89sU"
 bot.run(TOKEN)
